@@ -1,4 +1,4 @@
-import { QueryClient, useMutation, useQuery, useQueryClient } from "@tanstack/react-query"
+import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query"
 import { getProductByIdAction } from "../actions/get-product-byId-action"
 import { createProductUpdateAction } from "../actions/create-product-update.action"
 

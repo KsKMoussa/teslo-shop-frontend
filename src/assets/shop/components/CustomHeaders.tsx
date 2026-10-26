@@ -1,12 +1,11 @@
 
-import { Search, ShoppingBag, Menu } from "lucide-react";
+import { Search } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { useRef, useState, type KeyboardEvent } from "react";
 import { Link, useParams, useSearchParams } from "react-router";
 import { cn } from "@/lib/utils";
 import { CustomLogo } from "@/components/custom/CustomLogo";
-import { useStore } from "zustand";
 import { useAuthStore } from "@/assets/auth/store/auth.store";
 
 

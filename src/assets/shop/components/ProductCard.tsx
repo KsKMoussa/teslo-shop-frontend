@@ -1,5 +1,5 @@
 
-import type { Size, Sizes } from "@/assets/interfaces/product.interface";
+import type { Size } from "@/assets/interfaces/product.interface";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 

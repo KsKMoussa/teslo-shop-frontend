@@ -1,4 +1,4 @@
-import { Currency } from "lucide-react"
+
 
 
 export const currencyFormatted = (value: number) => {
